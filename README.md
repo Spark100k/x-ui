@@ -1,7 +1,8 @@
 # X-UI
 简体中文|[ENGLISH](./README_EN.md)  
 
-> 免责声明：该项目仅供个人学习、交流，请遵守当地法律法规,勿用于非法用途;请勿用于生产环境  
+> 声明：该项目仅供个人学习、交流，请遵守当地法律法规,勿用于非法用途;请勿用于生产环境  
+> 声明：该项目已闭源，介意者请勿使用；如您需要开源代码，请附上您的Github Profile邮箱联系  
 
 支持单端口多用户、多协议的 xray 面板，究极缝合怪    
 通过免费的Telegram bot方便快捷地进行监控、管理你的代理服务  
@@ -207,8 +208,6 @@ xray 状态: 运行
 - [搬瓦工GIA高端线路](https://bandwagonhost.com/aff.php?aff=65703),仅推荐购买GIA套餐      
 - [Cloudcone性价比主机提供商](https://app.cloudcone.com/?ref=7536)  
 - [Spartan三网4837性价比主机](https://billing.spartanhost.net/aff.php?aff=1875)
-- USDT TRC20:`TYZ5MAq5YvtCMsjQDq1TJZnMWmjMVGLk2T`  
-![image](https://github.com/FranzKafkaYu/x-ui/assets/38254177/3e185f19-d19d-4bce-ac4f-24989215fd51)
 
   
 如果你希望购买一些现成的代理服务,可选择下述代理服务
